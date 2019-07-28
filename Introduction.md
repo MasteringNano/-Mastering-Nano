@@ -1,1 +1,13 @@
-#Introduction
+[role="pagenumrestart"]
+[[ch01_intro_what_is_Nano]]
+== Introduction
+
+=== What Is Nano?
+
+Nano is a collection of concepts and technologies that form the basis of a digital money ecosystem.  Units of currency called Nano are used to store and transmit value among participants in the Nano network.  Nano users communicate with each other using the Nano protocol primarily via the internet, although other transport networks can also be used(?). The Nano protocol stack, available as open source software, can be run on a wide range of computing devices, including laptops and smartphones, making the technology easily accessible.
+
+Users can transfer Nano over the network to do just about anything that can be done with conventional currencies, including buy and sell goods, send money to people or organizations, or extend credit. Nano can be purchased, sold, and exchanged for other currencies at specialized currency exchanges. Nano in a sense is the perfect form of money for the internet because it is truly fast, secure, borderless and completly feeless.
+
+Unlike traditional currencies, Nano are entirely virtual. There are no physical coins or even digital coins per se. The coins are implied in transactions that transfer value from sender to recipient. Users of Nano own keys that allow them to prove ownership of Nano in the Nano network. With these keys they can sign transactions to unlock the value and spend it by transferring it to a new owner. Keys are often stored in a digital wallet on each user’s computer, smartphone or online. Possession of the key that can sign a transaction is the only prerequisite to spending Nano, putting the control entirely in the hands of each user.
+
+Nano is a distributed, peer-to-peer system. As such there is no "central" server or point of control. Nano are not created through the inefficient process called "mining," like Bitcoin and most other cryptocurrencies. Nano instead.....
