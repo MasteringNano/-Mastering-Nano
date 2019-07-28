@@ -20,8 +20,8 @@ Behind the scenes, Nano is also the name of the protocol, a peer-to-peer network
 * The Block-Lettuce architecture
 * A mechanism for reaching global decentralized consensus on the valid blockchain (Delegated Proof-of-Stake)
 
+As a developer, I see Nano as akin to the internet of money2.0, a network for propagating value and securing the ownership of digital assets via distributed computation. There's a lot more to Nano than first meets the eye.
 
-
-
+In this chapter we'll get started by explaining some of the main concepts and terms, getting the necessary software, and using Nano for simple transactions. In following chapters we'll start unwrapping the layers of technology that make Nano possible and examine the inner workings of the Nano network and protocol.
 
 
