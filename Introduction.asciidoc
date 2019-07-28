@@ -10,4 +10,6 @@ Users can transfer Nano over the network to do just about anything that can be d
 
 Unlike traditional currencies, Nano are entirely virtual. There are no physical coins or even digital coins per se. The coins are implied in transactions that transfer value from sender to recipient. Users of Nano own keys that allow them to prove ownership of Nano in the Nano network. With these keys they can sign transactions to unlock the value and spend it by transferring it to a new owner. Keys are often stored in a digital wallet on each user’s computer, smartphone or online. Possession of the key that can sign a transaction is the only prerequisite to spending Nano, putting the control entirely in the hands of each user.
 
-Nano is a distributed, peer-to-peer system. As such there is no "central" server or point of control. Nano are not created through the inefficient process called "mining," like Bitcoin and most other cryptocurrencies. Nano instead.....
+Nano is a distributed, peer-to-peer system. As such there is no "central" server or point of control. Nano uses a block-lattice architecture, meaning that each account has its own blockchain, creating near instanteneous transactions and in theory unlimited scalability. The separate blockchains update ascynchronously  to the rest of the network, drasticly lowering the overhead. (Much more on this later)
+
+
