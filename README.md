@@ -10,7 +10,7 @@ If you know how to make a pull request to contribute a fix, please write the cor
 You can also donate to help out, I'm doing this research independently and any contribution, through comments, work, issues, translation or donations are greatly appreciated.
 ## nano_1cg4y94wnbcsgaatyjb17yg6z9fu9ibf5eete3pkw8royfey4m9mk9wgxong
 
-![Alt text](https://www.use.com/OiLwq "Mastering Nano Donation")
+![nanoDonationWallet](nanoWallet.png)
 
 ## Chapters 
 + Chapter 1:'[Introduction](https://github.com/MasteringNano/-Mastering-Nano/blob/develop/ch01.asciidoc)'
