@@ -20,7 +20,7 @@ You can also donate to help out, I'm doing this research independently and any c
 + Chapter 5: '[Wallets](https://github.com/MasteringNano/-Mastering-Nano/blob/master/Wallets)'
 + Chapter 6: '[Transactions](https://github.com/MasteringNano/-Mastering-Nano/blob/master/Transactions)'
 + Chapter 7: '[Advanced Transactions and Scripting](https://github.com/MasteringNano/-Mastering-Nano/blob/master/Advanced)'
-+ Chapter 8: '[The Nano Network](https://github.com/MasteringNano/-Mastering-Nano/blob/master/TheNanoNetwork'
++ Chapter 8: '[The Nano Network](https://github.com/MasteringNano/-Mastering-Nano/blob/master/TheNanoNetwork)'
 + Chapter 9: '[The Blockchain'(s)](https://github.com/MasteringNano/-Mastering-Nano/blob/TheBlockchains)'
 + Chapter 10: '[No Mining Still Consensus](https://github.com/MasteringNano/-Mastering-Nano/blob/master/NoMiningStillConcensus)'
 + Chapter 11: '[Nano Security](https://github.com/MasteringNano/-Mastering-Nano/blob/master/NanoSecurity)'
