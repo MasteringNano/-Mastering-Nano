@@ -13,7 +13,7 @@ You can also donate to help out, I'm doing this research independently and any c
 ![nanoDonationWallet](nanoWallet.png)
 
 ## Chapters 
-+ Chapter 1:'[Introduction](https://github.com/MasteringNano/-Mastering-Nano/blob/develop/Introduction.asciidoc)'
++ Chapter 1:'[Introduction](https://github.com/MasteringNano/-Mastering-Nano/blob/develop/Introduction.asciidoc)'(In progress)
 + Chapter 2:(Coming Soon) '[How Nano Works](https://github.com/MasteringNano/-Mastering-Nano/master/HowNanoWorks)'
 + Chapter 3: (Coming Soon) '[nano-node: The Reference Implementation](https://github.com/MasteringNano/-Mastering-Nano/blob/master/NanoNode)'
 + Chapter 4:(Coming Soon)  '[Keys, Addresses](https://github.com/MasteringNano/-Mastering-Nano/blob/master/KeysAdresses)'
