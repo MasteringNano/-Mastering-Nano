@@ -1,7 +1,8 @@
 [[ch01_intro_what_is_Nano]]
-== Introduction
+<br>
+#== Introduction
 
-=== What Is Nano?
+##=== What Is Nano?
 
 Nano is a collection of concepts and technologies that form the basis of a digital money ecosystem.  Units of currency called Nano are used to store and transmit value among participants in the Nano network.  Nano users communicate with each other using the Nano protocol primarily via the internet, although other transport networks can also be used(?). The Nano protocol stack, available as open source software, can be run on a wide range of computing devices, including laptops and smartphones, making the technology easily accessible.
 
