@@ -1,4 +1,3 @@
-[role="pagenumrestart"]
 [[ch01_intro_what_is_Nano]]
 == Introduction
 
