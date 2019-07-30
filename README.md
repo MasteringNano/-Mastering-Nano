@@ -24,4 +24,4 @@ You can also donate to help out, I'm doing this research independently and any c
 + Chapter 9:(Coming Soon)  '[The Blockchain'(s)](https://github.com/MasteringNano/-Mastering-Nano/blob/TheBlockchains)'
 + Chapter 10:(Coming Soon)  '[No Mining Still Consensus](https://github.com/MasteringNano/-Mastering-Nano/blob/master/NoMiningStillConcensus)'
 + Chapter 11:(Coming Soon)  '[Nano Security](https://github.com/MasteringNano/-Mastering-Nano/blob/master/NanoSecurity)'
-+ Chapter 12: (Coming Soon) '[Blockchain Applications](https://github.com/MasteringNano/-Mastering-Nano/blob/master/BlockChainApplications)'
++ Chapter 12: (work starting around august-september by volontier) '[Blockchain Applications](https://github.com/MasteringNano/-Mastering-Nano/blob/master/BlockChainApplications)'
